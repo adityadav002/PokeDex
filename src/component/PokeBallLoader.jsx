@@ -1,4 +1,4 @@
-
+import React from 'react';
 const PokeBallLoader = () => {
   return (
     <div className="loader-container">
